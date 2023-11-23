@@ -2,10 +2,27 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 
+
 body{
-    background: #000;
+    background-image: url(https://wallpaperaccess.com/full/1553991.jpg);
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+p{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: sans-serif;
 }
 
 #canvas1 {
